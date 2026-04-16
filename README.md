@@ -1,4 +1,4 @@
-# Wallex - Student Finance Management App
+ # Wallex - Student Finance Management App
 
 A comprehensive financial management application designed specifically for Indian college students, featuring AI-powered expense tracking, goal-based savings, financial education, and parent connection features.
 
